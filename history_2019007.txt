@@ -1,0 +1,31 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano MasPirmaisSkripts.sh
+    4  ls -l
+    5  cat MansPirmaisSkripts.sh
+    6  cat MasPirmaisSkripts.sh 
+    7  ls
+    8  whereis ls
+    9  whereis MasPirmaisSkripts.sh
+   10  ls
+   11  ls -l
+   12  ls -l bin/ls
+   13  ls -l /bin/ls
+   14  ./MasPirmaisSkripts.sh
+   15  pwd
+   16  echo $PATH
+   17  PATH=$PATH:~
+   18  echo $PATH
+   19  MasPrimaisSkripts.sh
+   20  MasPirmaisSkripts.sh
+   21  whereis MasPirmaisSkripts.sh
+   22  ls -l MasPirmaisSkripts.sh 
+   23  chmod 740 MasPirmaisSkripts.sh 
+   24  ls -l MasPirmaisSkripts.sh 
+   25  ls
+   26  MasPirmaisSkripts.sh 
+   27  cat error.txt
+   28  nano MasPirmaisSkripts.sh 
+   29  history
+   30  history > history_20190607
+   31  history > history_2019007.txt
