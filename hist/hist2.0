@@ -1,0 +1,179 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  firefox
+    5  git clone https://github.com/Maksims98/RTR105
+    6  nano git-upload
+    7  ls -l
+    8  git -upload
+    9  hisotry
+   10  ls -l
+   11  cmod 755 git-upload
+   12  ls -l
+   13  chmod 755 git-upload
+   14  ls -l
+   15  git -upload
+   16  mv git-upload.sh git-upload
+   17  echo $PATH
+   18  ls -l
+   19  ./git-upload
+   20  nano git-upload
+   21  cat git-upload
+   22  ./git-upload a b
+   23  ./git-upload 20190923_15_15
+   24  nano git-upload
+   25  ./git-upload 20190923_15_15
+   26  pwd
+   27  ls -l
+   28  mv git-upload RTR105/
+   29  ls -l
+   30  cd RTR105/
+   31  ls -l
+   32  history > history_20190923.txt
+   33  ls -l
+   34  ls -la
+   35  ls -l
+   36  ./git-upload 20190923_15_15
+   37  pwd
+   38  mkdir darbi
+   39  ls -l
+   40  cd darbi
+   41  nano elementary.c
+   42  ls -l
+   43  cat elementary.c 
+   44  gcc elementary.c 
+   45  ls -l
+   46  nano elementary.c
+   47  cat elementary.c 
+   48  gcc elementary.c 
+   49  gcc elementary.c  -o prgl
+   50  ls -l
+   51  ./prgl
+   52  ./a.out
+   53  gcc elementary.c -o prg1
+   54  ls -l
+   55  nano elementary.c 
+   56  ls -l
+   57  cat elementary.c 
+   58  gcc elementary.c -o prg2
+   59  ls -l
+   60  nano elementary.c 
+   61  ls -l
+   62  cp elementary.c hello.c
+   63  ls -l
+   64  nano hello.c 
+   65  cat hello.c 
+   66  nano hello.c 
+   67  cat hello.c 
+   68  gcc hello.c -o prg4
+   69  ls -l
+   70  ./prg4
+   71  nano hello.c 
+   72  g
+   73  fg
+   74  ls -l
+   75  cat hello.c 
+   76  gcc hello.c -o prg5
+   77  ./prg5
+   78  gcc hello.c -o prg5
+   79  cat hello.c 
+   80  nano hello.c 
+   81  gcc hello.c -o prg6
+   82  ls -l
+   83  rm prg1
+   84  rm prgl
+   85  ls -l
+   86  lm prg2
+   87  rm prg2
+   88  ls prg*
+   89  rm prg*
+   90  ls -l
+   91  cd ..
+   92  rm a.out
+   93  ls -l
+   94  history > history_20190923.txt
+   95  ./git upload history_20190923.txt
+   96  ./git-upload history_20190923_16_07
+   97  ssh
+   98  ssh -X x123REB123@213.175.92.22
+   99  hello.c
+  100  nano hello.c 
+  101  ls
+  102  cd RTR105
+  103  ls
+  104  cd darbi
+  105  ls
+  106  cp hello.c 02.c
+  107  ls
+  108  nano 02.c
+  109  gcc 02.c
+  110  nano 02.c
+  111  gcc 02.c
+  112  nano 02.c
+  113  gcc 02.c
+  114  nano 02.c
+  115  gcc 02.c
+  116  nano 02.c
+  117  gcc 02.c
+  118  ./a.out
+  119  nano 02.c
+  120  gcc 02.c
+  121  ./a.out
+  122  nano 02.c
+  123  gcc 02.c
+  124  ./a.out
+  125  nano 02.c
+  126  gcc 02.c -o prg222
+  127  ./a.out
+  128  nano 02.c
+  129  gcc 02.c
+  130  ./a.out
+  131  nano 02.c
+  132  ./a.out
+  133  gcc 02.c
+  134  ./a.out
+  135  ls
+  136  nano 02.c
+  137  gcc 02.c
+  138  ./a.out
+  139  nano 02.c
+  140  gcc 02.c
+  141  ./a.out
+  142  nano 02.c
+  143  gcc 02.c
+  144  ./a.out
+  145  cp hello.c 03.c
+  146  ls
+  147  rm prg222
+  148  ls
+  149  nano 03.c
+  150  gcc 03.c
+  151  nano 03.c
+  152  gcc 03.c
+  153  nano 03.c
+  154  gcc 03.c
+  155  nano 03.c
+  156  gcc 03.c
+  157  ./a.out
+  158  nano 03.c
+  159  gcc 03.c
+  160  ./a.out
+  161  nano 03.c
+  162  gcc 03.c
+  163  nano 03.c
+  164  gcc 03.c
+  165  nano 03.c
+  166  gcc 03.c
+  167  nano 03.c
+  168  gcc 03.c
+  169  ls
+  170  ./a.out
+  171  nano 03.c
+  172  gcc 03.c
+  173  ./a.out
+  174  cd ..
+  175  ls
+  176  mkdir hist
+  177  ls
+  178  cd hist
+  179  history > hist2.0
