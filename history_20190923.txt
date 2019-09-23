@@ -29,3 +29,65 @@
    29  cd RTR105/
    30  ls -l
    31  history > history_20190923.txt
+   32  ls -l
+   33  ls -la
+   34  ls -l
+   35  ./git-upload 20190923_15_15
+   36  pwd
+   37  mkdir darbi
+   38  ls -l
+   39  cd darbi
+   40  nano elementary.c
+   41  ls -l
+   42  cat elementary.c 
+   43  gcc elementary.c 
+   44  ls -l
+   45  nano elementary.c
+   46  cat elementary.c 
+   47  gcc elementary.c 
+   48  gcc elementary.c  -o prgl
+   49  ls -l
+   50  ./prgl
+   51  ./a.out
+   52  gcc elementary.c -o prg1
+   53  ls -l
+   54  nano elementary.c 
+   55  ls -l
+   56  cat elementary.c 
+   57  gcc elementary.c -o prg2
+   58  ls -l
+   59  nano elementary.c 
+   60  ls -l
+   61  cp elementary.c hello.c
+   62  ls -l
+   63  nano hello.c 
+   64  cat hello.c 
+   65  nano hello.c 
+   66  cat hello.c 
+   67  gcc hello.c -o prg4
+   68  ls -l
+   69  ./prg4
+   70  nano hello.c 
+   71  g
+   72  fg
+   73  ls -l
+   74  cat hello.c 
+   75  gcc hello.c -o prg5
+   76  ./prg5
+   77  gcc hello.c -o prg5
+   78  cat hello.c 
+   79  nano hello.c 
+   80  gcc hello.c -o prg6
+   81  ls -l
+   82  rm prg1
+   83  rm prgl
+   84  ls -l
+   85  lm prg2
+   86  rm prg2
+   87  ls prg*
+   88  rm prg*
+   89  ls -l
+   90  cd ..
+   91  rm a.out
+   92  ls -l
+   93  history > history_20190923.txt
